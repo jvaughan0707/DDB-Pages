@@ -40,5 +40,8 @@ If you agree, we will try to deal with your request informally, for example by p
 
 If we do hold information about you, you can ask us to correct any mistakes or delete your data. You can find out more about the rights you have at [https://ico.org.uk/for-the-public/](https://ico.org.uk/for-the-public/).
 We may make a charge of up to £10 for a request.
-Please direct all queries to: 
+
+## Contact
+
+Please direct all queries to:
 [jvaughan0707@yahoo.com](mailto:jvaughan0707@yahoo.com)
