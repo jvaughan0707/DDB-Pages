@@ -27,7 +27,7 @@ Once a user cancels their account, we will retain sufficient information to iden
 ## How long do we retain your data?
 For members that register on our Application, we store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Administrators can also see and edit that information.
 
-### What rights do you have over your data?
+## What rights do you have over your data?
 The DDB tries to be as open as it can be in terms of giving people access to their personal information. Individuals can find out if we hold any personal information by asking us. This is formally known as a ‘subject access request’ under the Data Protection Act 1998. If we do hold information about you, we will:
 
 * give you a description of it
