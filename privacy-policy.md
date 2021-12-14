@@ -1,17 +1,19 @@
-## Privacy Policy
+[Home](https://jvaughan0707.github.io/DDB-Pages)
+
+# Privacy Policy
 
 This privacy notice tells you what to expect when the DDB collects personal information. We may change this notice by updating this page and you should check from time to time to ensure that you are happy with any changes.
 
-### Introduction
+## Introduction
 
 The DDB is committed to process any personal information it holds only in ways that are fair, transparent and meet its legal obligations.
 
-### DDB Users
+## DDB Users
 
 We collect contact details in order to ensure the service that we supply.
 That includes, but is not limited to, the administration of joining the app, verification of identity, the supply of critical information to the Police and Cave Rescue Organisations.
 
-### Personal Data:  Name, Address, contact telephone number, Car Registration Number etc
+### Personal Data: Name, Address, contact telephone number, Car Registration Number etc
 
 The data that we collect is used only for administrative purposes.  It will only be used to verify identity and in the event that the Police and Cave Rescue Organisation are contacted in connection with the operation of the Application.
 
@@ -22,7 +24,7 @@ We gather statistics with respect to the numbers of cavers visiting caves but do
 ### Data Retention
 Once a user cancels their account, we will retain sufficient information to identify the previous user. This allows the previous username to be used again if the user re-joins.
 
-### How long do we retain your data?
+## How long do we retain your data?
 For members that register on our Application, we store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Administrators can also see and edit that information.
 
 ### What rights do you have over your data?
