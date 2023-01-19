@@ -1,5 +1,7 @@
 [Home](https://jvaughan0707.github.io/DDB-Pages)
 
+<img src="Icon.png" height="100" width="100" align="right">
+
 # Privacy Policy
 
 This privacy notice tells you what to expect when the DDB collects personal information. We may change this notice by updating this page and you should check from time to time to ensure that you are happy with any changes.
