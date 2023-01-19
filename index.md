@@ -1,4 +1,6 @@
-## Welcome to Digital Destination Board!
+<img src="Icon.png" height="100" width="100" align="right">
+
+## Welcome to Digital Destination Board! 
 
 ### About
 
