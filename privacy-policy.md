@@ -44,4 +44,4 @@ We may make a charge of up to £10 for a request.
 ## Contact
 
 Please direct all queries to:
-[jvaughan0707@yahoo.com](mailto:jvaughan0707@yahoo.com)
+[ddb.team@outlook.com](mailto:ddb.team@outlook.com)
