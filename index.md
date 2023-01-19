@@ -13,7 +13,7 @@ The Digital Destination Board (DDB) is a mobile app that allows cavers to enter 
 ### Support or Contact
 
 If you need help with the app, or would like to report an issue or provide feedback, you can use the email address below to get in touch:
-[jvaughan0707@yahoo.com](mailto:jvaughan0707@yahoo.com)
+[ddb.team@outlook.com](mailto:ddb.team@outlook.com)
 
 ### Links
 
